@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### 技术栈
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,c++,java,spring,docker,git" />
+</p>
+
 <!--
 **Frodddo/Frodddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
