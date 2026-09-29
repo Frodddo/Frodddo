@@ -3,7 +3,7 @@
 ### 技术栈
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,c++,java,spring,docker,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,docker,git" />
 </p>
 
 <!--
