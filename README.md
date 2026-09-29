@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 技术栈
+### Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,docker,git" />
